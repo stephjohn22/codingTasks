@@ -106,6 +106,7 @@ Explore how different activation functions affect neuron outputs. Run the code c
 
 **Visualise the Sigmoid Function:**<br>
 The sigmoid function is commonly used in neural networks as an activation function. It maps any input value to a range between 0 and 1, which helps in normalising the output of each neuron. The diagrams below show the sigmoid function is plot and how it transforms different input values. This visualisation helps in understanding how the sigmoid function behaves and its role in neural networks.
+
 ![Screenshot 2024-06-30 164707](https://github.com/stephjohn22/codingTasks/assets/163042398/0927a3c1-fc82-4220-9b7a-e1fc71bba98b)
 ![Screenshot 2024-06-30 164733](https://github.com/stephjohn22/codingTasks/assets/163042398/90957204-9693-43da-87cb-aad97884ff0d)
 
@@ -115,6 +116,7 @@ Demonstrate how neurons can be used to model logic gates such as OR, AND, NOR, a
 
 **Implement Neurons as Logic Gates:**<br>
 Logic gates like OR, AND, NOR, and NAND can be simulated using neurons by setting appropriate weights and biases. The diagrams below show how a logic gate is cretated and how its weights and bias are used to verify thier truth tables.
+
 ![Screenshot 2024-06-30 183045](https://github.com/stephjohn22/codingTasks/assets/163042398/c0601b27-790f-4de5-9203-73a7e0217601)
 ![Screenshot 2024-06-30 183201](https://github.com/stephjohn22/codingTasks/assets/163042398/28cbe452-1b3a-45c6-8d47-ea01d45528cb)
 ![image](https://github.com/stephjohn22/codingTasks/assets/163042398/960df30e-a150-4992-8e5c-4f8a0e9cee15)
@@ -126,6 +128,7 @@ Understand the role of matrix computations in neural networks. Implement network
 
 Implement Network Layers Using Matrix Multiplication:
 Instead of handling individual neurons, neural networks often work with layers of neurons. Each layer performs matrix multiplication of the input vector with a weight matrix, adds a bias vector, and applies an activation function. The diagrams below show how to implement these layers and how inputs are processed through the network. Experimenting with different weight matrices and biases affect the output of the network.
+
 ![image](https://github.com/stephjohn22/codingTasks/assets/163042398/fba7eeb3-a298-4b68-9763-1418d0c164e9)
 ![image](https://github.com/stephjohn22/codingTasks/assets/163042398/b3d110a7-bb8e-4aef-b866-93f5fcf78536)
 ![image](https://github.com/stephjohn22/codingTasks/assets/163042398/0e74a632-e673-4eb9-bdbd-1d502a73bae8)
@@ -133,10 +136,11 @@ Instead of handling individual neurons, neural networks often work with layers o
 ### Additional Resources
 
 For more examples and detailed explanations, refer to these links:<br>
-
-[Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/)<br>
-[Activation Functions in Neural Networks - Towards Data Science](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)<br> [Logic Gates – Definition, Types, Uses - GeeksforGeeks](https://www.geeksforgeeks.org/logic-gates/?ref=header_search)<br>
-[Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm) - Obumneme Stanley Dukor](https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1)
+[Exploring Neural Networks](https://www.kdnuggets.com/exploring-neural-networks)
+[Neural Networks: Exploring the Basics and Building from Scratch](https://www.pullrequest.com/blog/deep-dive-into-neural-networks-building-and-training-from-scratch/)
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)<br>
+[Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)<br> [Logic Gates – Definition, Types, Uses](https://www.geeksforgeeks.org/logic-gates/?ref=header_search)<br>
+[Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm)](https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
